@@ -1,6 +1,6 @@
 # Employee Management System
 
-An Employee Management System is a comprehensive software solution designed to streamline and automate various aspects of managing employees within an organization. It typically includes features for tracking employee information, attendance, performance, and more.
+An Employee Management System is a comprehensive software solution designed to streamline and automate various aspects of managing employees within an organization. It typically includes features for tracking employee information.
 
 ### Features
 - **Employee Database:** Store and manage employee records, including personal details, contact information, job history, and performance evaluations.
