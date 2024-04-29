@@ -17,15 +17,21 @@ To get started with the Employee Management System, follow these steps:
 3. Set up the database and configure the application settings.
 4. Run the application and navigate to the designated URL to access the system.
 
-### Project Structure
+### Commands
+1. npm install
+2. npm install axios
+3. npm start
+
+### Project Details
 The project follows a structured directory layout, with separate directories for different components of the system, such as:
 - `src/`: Contains the source code of the application.
-- `database/`: Includes database schema and scripts for setting up the database.
-- `docs/`: Contains documentation files, including user guides, API documentation, and project specifications.
+-  Used Spring Boot , Spring Security and MySql
+-  React JS for frontend
 
 ### Version Control
-We use version control to manage the development workflow and track changes to the codebase. Watch the video below to learn more about our version control workflow:
+We use version control to manage the development workflow and track changes to the codebase.
+### Watch the video below to learn more about our workflow:
 
-[![Version Control Workflow](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+[![Complete Work Flow of Project Link]](https://drive.google.com/file/d/1VaPxPUdUnQ94HSA3OD1dM_YJkHx0-sO6/view?usp=sharing)
 
-For any questions or support, please contact [your contact information here].
+For any questions or support, please contact [nagarajasatani@gmail.com].
