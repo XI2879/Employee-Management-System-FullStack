@@ -26,7 +26,7 @@ function App() {
   return (
     <BrowserRouter>
       <Header />
-      {/* <Routes>
+      <Routes>
         <Route path="" element={<Homepage />}> </Route>
         <Route path="/login" element={<Login />}></Route>
         <Route path="/register" element={<Register />} ></Route>
@@ -35,7 +35,7 @@ function App() {
         <Route path="/update/:id" element={<AuthenticatedRoute><EmployeeForm /></AuthenticatedRoute>}></Route>
         <Route path="/view/:id" element={<AuthenticatedRoute><ViewEmployee /></AuthenticatedRoute>}></Route>
         <Route path="*" element={<NotFound />} ></Route>
-      </Routes> */}
+      </Routes>
       
       
       <Footer />
