@@ -5,7 +5,7 @@ An Employee Management System is a comprehensive software solution designed to s
 ### Features
 - **Employee Database:** Store and manage employee records, including personal details, contact information, job history, and performance evaluations.
 - **User Roles and Permissions:** Assign roles and permissions to users to control access to different features and data within the system.
-- **Authentication to Users
+-  Authentication to Users
 
 ### Getting Started
 To get started with the Employee Management System, follow these steps:
