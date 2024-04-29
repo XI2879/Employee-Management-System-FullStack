@@ -15,7 +15,7 @@ axios.interceptors.request.use(
 
 export const getAllEmployees = (all) => axios.get(BASE_REST_API_URL,all);
 
-export const saveEmployee = () => axios.post(BASE_REST_API_URL, employee);
+export const saveEmployee = (employee) => axios.post(BASE_REST_API_URL, employee);
 
 export const getEmployee = (id) => axios.get(BASE_REST_API_URL + "/" + id);
 
