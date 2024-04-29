@@ -36,8 +36,6 @@ function App() {
         <Route path="/view/:id" element={<AuthenticatedRoute><ViewEmployee /></AuthenticatedRoute>}></Route>
         <Route path="*" element={<NotFound />} ></Route>
       </Routes>
-      
-      
       <Footer />
     </BrowserRouter>
   );
