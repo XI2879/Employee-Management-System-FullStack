@@ -13,6 +13,7 @@ To get started with the Employee Management System, follow these steps:
 2. Install the necessary dependencies as outlined in the project documentation.
 3. Set up the database and configure the application settings.
 4. Run the application and navigate to the designated URL to access the system.
+5. Change the DB credentials accordingly
 
 ### Commands
 1. npm install
@@ -27,7 +28,7 @@ The project follows a structured directory layout, with separate directories for
 
 ### Version Control
 We use version control to manage the development workflow and track changes to the codebase.
-### Watch the video below to learn more about our workflow:
+### Watch the video below to learn more about workflow of this project:
 
 [![Complete Work Flow of Project Link]](https://drive.google.com/file/d/1VaPxPUdUnQ94HSA3OD1dM_YJkHx0-sO6/view?usp=sharing)
 
