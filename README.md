@@ -4,11 +4,8 @@ An Employee Management System is a comprehensive software solution designed to s
 
 ### Features
 - **Employee Database:** Store and manage employee records, including personal details, contact information, job history, and performance evaluations.
-- **Attendance Management:** Track employee attendance, including clock-in and clock-out times, absences, leaves, and overtime.
-- **Leave Management:** Allow employees to request leaves, and manage and approve leave requests efficiently.
-- **Performance Evaluation:** Conduct performance reviews, set goals, and track employee performance over time.
-- **Reporting:** Generate reports on various aspects of employee management, such as attendance, leaves, performance, and payroll.
 - **User Roles and Permissions:** Assign roles and permissions to users to control access to different features and data within the system.
+- **Authentication to Users
 
 ### Getting Started
 To get started with the Employee Management System, follow these steps:
